@@ -2,7 +2,7 @@
 
 #### About me 
 - 20 years old
-- From Recife :brazil:
+- From Recife PE, Brazil
 - Currently studying Information Systems at the UFRPE
 - I like to solve problems and learn
 
