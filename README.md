@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Mário
 
 #### About me 
-- 20 years old
+- 21 years old
 - From Recife PE, Brazil
 - Currently studying Information Systems at the UFRPE
 - I like to solve problems and learn
