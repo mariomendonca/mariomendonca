@@ -4,7 +4,7 @@
 - Full stack developer at <a href="https://gowdock.com" target="blank">Gowdock</a> (startup in development)
 - Full stack developer and partner at <a href="https://falaagro.com/" target="blank">Fala Agro</a>
 
-### Bio
+#### Bio
 - 21 years old
 - From Recife PE, Brazil
 - Currently working with React, React Native and Nodejs 
