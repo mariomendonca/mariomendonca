@@ -10,4 +10,4 @@
 - Currently working with React, React Native and Nodejs 
 - Studying data science and having fun with python in my spare time
 - Fun fact: i love to play tennis and soccer
-- Reach me: <a href="https://www.linkedin.com/in/mariommendonca/" target="blank">LinkedIn/mariomendonca</a>
+- More about me: <a href="https://www.linkedin.com/in/mariommendonca/" target="blank">LinkedIn/mariomendonca</a>
