@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Mário
 
 #### Now 
-- Full stack developer at <a href="https://gowdock.com" target="blank">Gowdock</a> (startup in development)
-- Full stack developer and partner at <a href="https://falaagro.com/" target="blank">Fala Agro</a>
+- Full stack developer and partner at <a href="https://falaagro.com/" target="blank">Fala Agro</a> (approximately 5 hours per week)
+- Looking for a full time job
 
 #### Bio
 - 21 years old
