@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Mário
 
 #### Now 
-- Full stack developer and partner at <a href="https://falaagro.com/" target="blank">Fala Agro</a> 
+- Full stack developer at <a href="https://falaagro.com/" target="blank">Fala Agro</a> 
 - Looking for a full time job
 
 #### Bio
