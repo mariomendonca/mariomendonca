@@ -1,8 +1,5 @@
 ### Hi there 👋 I'm Mário
 
-#### Bio
-- 21 years old
-- From Recife PE, Brazil
-- Currently working with React, React Native, Nodejs and GraphQL
-- Fun fact: i love to play tennis and soccer
-- More about me: <a href="https://www.linkedin.com/in/mariommendonca/" target="blank">LinkedIn/mariomendonca</a>
+My name is Mário, I’m 22 years old and currently living in Recife-PE, Brazil. I'm passionate about technology and solving problem using it. Working at [livelo](https://www.livelo.com.br/?gclid=Cj0KCQiApb2bBhDYARIsAChHC9t0Y7y-PnOTlcS3vS1YE3ShRkV3Gid1_lwEGwDcCDas5ebA5f-6cpwaAnbLEALw_wcB) and loving it.
+
+if you want to reach me to show you some project, ask questions or something else, DM me at [LinkedIn](https://www.linkedin.com/in/mariommendonca/)
